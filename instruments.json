@@ -1,0 +1,212 @@
+{
+  "Acetone Rhythm Ace": { "class": "drum", "sub": "machine" },
+  "Akai XE8": { "class": "drum", "sub": "machine" },
+  "Akai XR10": { "class": "drum", "sub": "machine" },
+  "Alesis HR16": { "class": "drum", "sub": "machine" },
+  "Boss DR220": { "class": "drum", "sub": "machine" },
+  "Boss DR55": { "class": "drum", "sub": "machine" },
+  "DrumFire": { "class": "drum", "sub": "machine" },
+  "DrumTraks": { "class": "drum", "sub": "machine" },
+  "Drumula 1": { "class": "drum", "sub": "machine" },
+  "Drumula 2": { "class": "drum", "sub": "machine" },
+  "E Ave": { "class": "drum", "sub": "machine" },
+  "Electro Puff": { "class": "drum", "sub": "machine" },
+  "Fricke MSB512": { "class": "drum", "sub": "machine" },
+  "Kawai R50": { "class": "drum", "sub": "machine" },
+  "Korg DDD1": { "class": "drum", "sub": "machine" },
+  "Korg DDM110": { "class": "drum", "sub": "machine" },
+  "Lab": { "class": "drum", "sub": "machine" },
+  "LINN9000 1": { "class": "drum", "sub": "machine" },
+  "LINN9000 2": { "class": "drum", "sub": "machine" },
+  "Mattel Synsonic": { "class": "drum", "sub": "machine" },
+  "MXR 185": { "class": "drum", "sub": "machine" },
+  "Retrobox": { "class": "drum", "sub": "machine" },
+  "Roland CR78": { "class": "drum", "sub": "machine" },
+  "Roland TR606": { "class": "drum", "sub": "machine" },
+  "Roland TR727": { "class": "drum", "sub": "machine" },
+  "Roland TR808": { "class": "drum", "sub": "machine" },
+  "Roland TR909": { "class": "drum", "sub": "machine" },
+  "SCI Tom": { "class": "drum", "sub": "machine" },
+  "Simmons": { "class": "drum", "sub": "machine" },
+  "SP1200 1": { "class": "drum", "sub": "machine" },
+  "SP1200 2": { "class": "drum", "sub": "machine" },
+  "SP 12": { "class": "drum", "sub": "machine" },
+  "Sween": { "class": "drum", "sub": "machine" },
+  "Tama Tech Star 1": { "class": "drum", "sub": "machine" },
+  "Tama Tech Star 2": { "class": "drum", "sub": "machine" },
+  "Tama Tech Star 3": { "class": "drum", "sub": "machine" },
+  "Tyson 1": { "class": "drum", "sub": "machine" },
+  "Tyson 2": { "class": "drum", "sub": "machine" },
+  "Tyson 3": { "class": "drum", "sub": "machine" },
+  "Yamaha RX11": { "class": "drum", "sub": "machine" },
+
+  "Kick Clean TAL": {
+    "class": "drum",
+    "sub": "kick",
+    "resolution": "0",
+    "generator": "noisemaker"
+  },
+  "Hat Short Moves TAL": {
+    "class": "drum",
+    "sub": "hat",
+    "resolution": "0",
+    "generator": "noisemaker"
+  },
+  "HiHat FN": {
+    "class": "drum",
+    "sub": "hihat",
+    "resolution": "0",
+    "generator": "noisemaker"
+  },
+  "Snare Dry TAL": {
+    "class": "drum",
+    "sub": "snare",
+    "resolution": "12",
+    "generator": "noisemaker"
+  },
+  "Crash Space TAL": {
+    "class": "drum",
+    "sub": "crash",
+    "resolution": "12",
+    "generator": "noisemaker"
+  },
+
+  "Dream of '86 TUC": {
+    "class": "key",
+    "sub": "pad",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Shutter Lead TAL": {
+    "class": "key",
+    "sub": "arp",
+    "resolution": "4",
+    "generator": "noisemaker"
+  },
+  "EDM pluck keys": {
+    "class": "key",
+    "sub": "pluck",
+    "resolution": "6",
+    "generator": "zynaddsubfx"
+  },
+  "Pop Pluck TUC": {
+    "class": "key",
+    "sub": "pluck",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "COA Killer Chipsound Pluck 1": {
+    "class": "key",
+    "sub": "pluck",
+    "resolution": "6",
+    "generator": "helm"
+  },
+  "progressive-house-pluck": {
+    "class": "key",
+    "sub": "pluck",
+    "resolution": "6",
+    "generator": "zynaddsubfx"
+  },
+  "Sharp Synth": {
+    "class": "key",
+    "sub": "sharp",
+    "resolution": "6",
+    "generator": "zynaddsubfx"
+  },
+  "Full Strings": {
+    "class": "key",
+    "sub": "string",
+    "resolution": "6",
+    "generator": "zynaddsubfx"
+  },
+  "04_CCCP-70": {
+    "class": "key",
+    "sub": "epiano",
+    "resolution": "6",
+    "generator": "dexed"
+  },
+  "Brass Soft Stutter": {
+    "class": "key",
+    "sub": "brass",
+    "resolution": "6",
+    "generator": "helm"
+  },
+  "Shiver Stab AS": {
+    "class": "key",
+    "sub": "lead",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Big Synth FN": {
+    "class": "key",
+    "sub": "fat",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Brass Portamento": {
+    "class": "key",
+    "sub": "brass",
+    "resolution": "6",
+    "generator": "helm"
+  },
+  "Pleutonium FN": {
+    "class": "key",
+    "sub": "lead",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Sun Rise TAL": {
+    "class": "key",
+    "sub": "pad",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Soft E.Piano": {
+    "class": "key",
+    "sub": "epiano",
+    "generator": "sfz"
+  },
+
+  "BzBSS Warm Jet": {
+    "class": "bass",
+    "sub": "soft",
+    "resolution": "6",
+    "generator": "obxd"
+  },
+  "Hard 80's TAL": {
+    "class": "bass",
+    "sub": "hard",
+    "resolution": "6",
+    "generator": "noisemaker"
+  },
+  "Fat Moog Bazz": {
+    "class": "bass",
+    "sub": "moog",
+    "resolution": "6",
+    "generator": "obxd"
+  },
+  "Electro Bass": {
+    "class": "bass",
+    "sub": "harsh",
+    "resolution": "6",
+    "generator": "helm"
+  },
+  "Synth Bass": {
+    "class": "bass",
+    "sub": "soft",
+    "resolution": "6",
+    "generator": "zynaddsubfx"
+  },
+  "EBMRQBass - 01": {
+    "class": "bass",
+    "sub": "short",
+    "resolution": "6",
+    "generator": "obxd"
+  },
+  "BzSYN Might as well": {
+    "class": "bass",
+    "sub": "raw",
+    "resolution": "6",
+    "generator": "obxd"
+  }
+}

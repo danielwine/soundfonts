@@ -1,0 +1,205 @@
+<control>
+ hint_ram_based=1
+ set_cc1=0
+ set_cc11=127
+ set_cc64=0
+
+<global>
+ lfo06_wave=0
+ lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
+ lfo06_freq=8.176
+ amplitude_oncc11=100 amplitude_curvecc11=7
+
+<master>
+<group>
+ ampeg_decay=36.9926
+ ampeg_sustain=0.001
+ ampeg_release=0.35
+ loop_mode=loop_continuous
+
+///////////////////////////////////////////////////////////////////////////
+// F1
+
+<region>
+sample=Soft_E.Piano/1_F_a.wav
+lokey=0
+hikey=32
+pitch_keycenter=29
+lovel=111 hivel=127
+ampeg_decay=25.0
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=Soft_E.Piano/1_A_a.wav 
+lokey=33
+hikey=36
+pitch_keycenter=33
+lovel=111 hivel=127
+ampeg_decay=24.3
+
+////////////////////////////////////////////////////////////////////////////
+// Db2
+
+<region>
+sample=Soft_E.Piano/2_Db_a.wav
+lokey=37
+hikey=40
+pitch_keycenter=37
+lovel=111 hivel=127
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// F2
+
+<region>
+sample=Soft_E.Piano/2_F_a.wav
+lokey=41
+hikey=44
+pitch_keycenter=41
+lovel=111 hivel=127
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// A2
+
+<region>
+sample=Soft_E.Piano/2_A_a.wav
+lokey=45
+hikey=47
+pitch_keycenter=45
+lovel=111 hivel=127
+ampeg_decay=22
+
+////////////////////////////////////////////////////////////////////////////
+// B2
+
+<region>
+sample=Soft_E.Piano/2_B_a.wav
+lokey=48
+hikey=50
+pitch_keycenter=47
+lovel=111 hivel=127
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// db3
+
+<region>
+sample=Soft_E.Piano/3_Db_a.wav
+lokey=50
+hikey=52
+pitch_keycenter=49
+lovel=111 hivel=127
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// f3
+
+<region>
+sample=Soft_E.Piano/3_F_a.wav
+lokey=53
+hikey=56
+pitch_keycenter=53
+lovel=111 hivel=127
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// A3
+
+<region>
+sample=Soft_E.Piano/3_A_a.wav
+lokey=57
+hikey=60
+pitch_keycenter=57
+lovel=111 hivel=127
+ampeg_decay=20.3
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=Soft_E.Piano/4_Db_a.wav
+lokey=61
+hikey=64
+pitch_keycenter=61
+lovel=111 hivel=127
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// F4
+
+<region>
+sample=Soft_E.Piano/4_F_a.wav
+lokey=65
+hikey=68
+pitch_keycenter=65
+lovel=111 hivel=127
+ampeg_decay=15.0
+
+/////////////////////////////////////////////////////////////////////////////
+// A4
+
+<region>
+sample=Soft_E.Piano/4_A_a.wav
+lokey=69
+hikey=72
+pitch_keycenter=69
+lovel=111 hivel=127
+ampeg_decay=10.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=Soft_E.Piano/5_Db_a.wav
+lokey=73
+hikey=76
+pitch_keycenter=73
+lovel=111 hivel=127
+ampeg_decay=7
+
+/////////////////////////////////////////////////////////////////////////////
+// F5
+
+<region>
+sample=Soft_E.Piano/5_F_a.wav
+lokey=77
+hikey=80
+pitch_keycenter=77
+lovel=111 hivel=127
+ampeg_decay=5
+
+/////////////////////////////////////////////////////////////////////////////
+// A5
+
+<region>
+sample=Soft_E.Piano/5_A_a.wav
+lokey=81
+hikey=84
+pitch_keycenter=81
+lovel=111 hivel=127
+ampeg_decay=4.2
+
+/////////////////////////////////////////////////////////////////////////////
+// Db6
+
+<region>
+sample=Soft_E.Piano/6_Db_a.wav
+lokey=85
+hikey=87
+pitch_keycenter=85
+lovel=111 hivel=127
+ampeg_decay=4
+
+/////////////////////////////////////////////////////////////////////////////
+// E6
+
+<region>
+sample=Soft_E.Piano/6_E_a.wav
+lokey=88
+hikey=127
+pitch_keycenter=88
+lovel=111 hivel=127
+ampeg_decay=3.6
